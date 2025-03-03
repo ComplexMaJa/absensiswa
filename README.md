@@ -1,6 +1,8 @@
-<h1 align="center">
-  <a href="https://www.youtube.com/watch?v=JALbemLw3G4" target="_blank"><img src="https://github.com/ComplexMaJa/absensiswa/blob/main/ABSEN.png" alt="AbsensiSwa"></a>
-</h1>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=JALbemLw3G4" target="_blank">
+    <img src="https://github.com/ComplexMaJa/absensiswa/blob/main/ABSEN.png" alt="AbsensiSwa" width="500">
+  </a>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
