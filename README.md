@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="http://atlasos.net" target="_blank"><img src="https://gcore.jsdelivr.net/gh/Atlas-OS/branding@main/banners/banner-v3.png](https://www.canva.com/design/DAGgrI3DyO8/alh7qzRH9T7eaulKkMMgHA/view?embed" alt="Atlas" width="800"></a>
+  <a href="http://atlasos.net" target="_blank"><img src="[https://gcore.jsdelivr.net/gh/Atlas-OS/branding@main/banners/banner-v3.png](https://www.canva.com/design/DAGgrI3DyO8/alh7qzRH9T7eaulKkMMgHA/view?embed](https://www.canva.com/design/DAGgrI3DyO8/alh7qzRH9T7eaulKkMMgHA/view)" alt="Atlas" width="800"></a>
 </h1>
 
 <p align="center">
