@@ -1,32 +1,55 @@
-# AbsensiSwa 🚀
+# 🚀 AbsensiSwa  
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg) <!-- Replace with your license -->
-![GitHub stars](https://img.shields.io/github/stars/ComplexMaJa/absensiswa?style=social)
-![GitHub issues](https://img.shields.io/github/issues/ComplexMaJa/absensiswa)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)  
+![GitHub stars](https://img.shields.io/github/stars/ComplexMaJa/absensiswa?style=social)  
+![GitHub issues](https://img.shields.io/github/issues/ComplexMaJa/absensiswa)  
 
-Aplikasi Absensi Siswa yang memudahkan guru dalam mencatat kehadiran siswa secara digital. Dikembangkan dengan teknologi modern untuk efisiensi dan keakuratan.
-
----
-
-## Table of Contents 📚
-- [Features](#features-)
-- [Contributors](#contributors-)
----
-
-## Features ✨
-- **Pencatatan Kehadiran**: Mencatat kehadiran siswa secara real-time.
-- **Laporan Otomatis**: Menghasilkan laporan kehadiran secara otomatis.
-- **Antarmuka User-Friendly**: Mudah digunakan oleh guru dan admin.
+📌 **AbsensiSwa** adalah aplikasi absensi siswa digital yang membantu guru mencatat kehadiran dengan mudah, cepat, dan akurat. Dibangun dengan teknologi modern untuk meningkatkan efisiensi dalam manajemen kehadiran siswa.  
 
 ---
 
-## Installation 🛠️
+## 📚 Table of Contents  
+- [✨ Features](#-features)  
+- [🛠️ Installation](#-installation)  
+- [💙 Contributors](#-contributors)  
 
-Untuk memulai proyek ini, ikuti langkah-langkah berikut:
+---
 
-1. Clone repository:
-   ```bash
-   git clone https://github.com/ComplexMaJa/absensiswa.git
+## ✨ Features  
+✅ **Pencatatan Kehadiran** – Mencatat kehadiran siswa secara real-time.  
+📊 **Laporan Otomatis** – Menghasilkan laporan kehadiran dalam format digital.  
+🖥️ **Antarmuka User-Friendly** – Mudah digunakan oleh guru dan admin.  
 
-## 💙 Contributors
-<a href="https://github.com/ComplexMaJa/absensiswa/graphs/contributors" target="_blank"> <img src="https://contrib.rocks/image?repo=ComplexMaJa/absensiswa&columns=18" alt="Avatars of all contributors"> </a>
+---
+
+## 🛠️ Installation  
+Untuk menjalankan proyek ini, ikuti langkah-langkah berikut:  
+
+```bash
+# Clone repository
+git clone https://github.com/ComplexMaJa/absensiswa.git
+
+# Masuk ke direktori proyek
+cd absensiswa
+
+# Install dependencies
+npm install  # atau yarn install
+
+# Jalankan aplikasi
+npm start  # atau yarn start
+```
+
+---
+
+## 💙 Contributors  
+Terima kasih kepada semua kontributor yang telah berkontribusi pada proyek ini! 🚀  
+
+<a href="https://github.com/ComplexMaJa/absensiswa/graphs/contributors" target="_blank">
+  <img src="https://contrib.rocks/image?repo=ComplexMaJa/absensiswa&columns=18" alt="Avatars of all contributors">
+</a>  
+
+🔗 **[Lihat semua kontributor](https://github.com/ComplexMaJa/absensiswa/graphs/contributors)**  
+
+---
+
+✨ **Feel free to contribute!** Jika ada saran atau masukan, jangan ragu untuk membuat _issue_ atau _pull request_. 🙌
