@@ -10,11 +10,6 @@ Aplikasi Absensi Siswa yang memudahkan guru dalam mencatat kehadiran siswa secar
 
 ## Table of Contents 📚
 - [Features](#features-)
-- [Installation](#installation-)
-- [Usage](#usage-)
-- [Contributing](#contributing-)
-- [License](#license-)
-- [Acknowledgements](#acknowledgements-)
 
 ---
 
