@@ -27,3 +27,6 @@ Untuk memulai proyek ini, ikuti langkah-langkah berikut:
 1. Clone repository:
    ```bash
    git clone https://github.com/ComplexMaJa/absensiswa.git
+
+## 💙 Contributors
+<a href="https://github.com/ComplexMaJa/absensiswa/graphs/contributors" target="_blank"> <img src="https://contrib.rocks/image?repo=ComplexMaJa/absensiswa&columns=18" alt="Avatars of all contributors"> </a>
