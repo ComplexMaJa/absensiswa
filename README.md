@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.youtube.com/watch?v=JALbemLw3G4" target="_blank">
-    <img src="https://github.com/ComplexMaJa/absensiswa/blob/main/ABSEN.png" alt="AbsensiSwa" width="500">
+    <img src="https://github.com/ComplexMaJa/absensiswa/blob/main/ABSEN.png" alt="AbsensiSwa" width="800">
   </a>
 </div>
 
