@@ -55,3 +55,7 @@ Terima kasih kepada semua kontributor yang telah berkontribusi pada proyek ini! 
 ---
 
 ✨ **Feel free to contribute!** Jika ada saran atau masukan, jangan ragu untuk membuat _issue_ atau _pull request_. 🙌
+
+<p align="center">
+  <img src="https://cdn3.emoji.gg/emojis/5809_HatsuneMiku_Happy.gif" alt="Hatsune Miku Happy GIF">
+</p>
