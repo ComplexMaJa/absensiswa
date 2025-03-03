@@ -1,8 +1,10 @@
 # 🚀 AbsensiSwa  
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)  
-![GitHub stars](https://img.shields.io/github/stars/ComplexMaJa/absensiswa?style=social)  
-![GitHub issues](https://img.shields.io/github/issues/ComplexMaJa/absensiswa)  
+<p align="center">
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
+  <img src="https://img.shields.io/github/stars/ComplexMaJa/absensiswa?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/issues/ComplexMaJa/absensiswa" alt="GitHub issues">
+</p>
 
 📌 **AbsensiSwa** adalah aplikasi absensi siswa digital yang membantu guru mencatat kehadiran dengan mudah, cepat, dan akurat. Dibangun dengan teknologi modern untuk meningkatkan efisiensi dalam manajemen kehadiran siswa.  
 
